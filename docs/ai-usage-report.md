@@ -6,6 +6,8 @@ I used ChatGPT as a supporting tool while working on this project.
 
 I mainly used it when I needed help understanding HTML, CSS, and JavaScript concepts. I also used it to check my code, understand errors, and get suggestions when I was unsure how to implement something.
 
+I also used AI to create simple visual images for the two projects because I did not have original project images available.
+
 ## 2. Benefits and Challenges
 
 ChatGPT helped me understand coding concepts faster and gave me explanations when I got stuck.
